@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang, Javascript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/WilderBello](https://github.com/WilderBello)
+- 👨‍💻 All of my projects are available at [github profile](https://github.com/WilderBello)
 
 - 💬 Ask me about **Python, Flask, Java, Matlab**
 
