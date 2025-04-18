@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [PDFtoCal](https://github.com/WilderBello/PDFtoCAL)
 
-- 🌱 I’m currently learning **Golang, Javascript**
+- 🌱 I’m currently learning **Golang, Javascript, Typescript**
 
 - 👨‍💻 All of my projects are available at [github profile](https://github.com/WilderBello?tab=repositories)
 
-- 💬 Ask me about **Python, Flask, Java, Matlab**
+- 💬 Ask me about **Python, Java, Matlab**
 
 - 📫 How to reach me **wobelloh@unal.edu.co**
 
